@@ -4,7 +4,7 @@ A responsive and accessible country search app built with modern web technologie
 
 ## 🔗 Live Demo
 
-[Live App]()
+[Live App](https://country-app-kohl.vercel.app/)
 
 ## 📌 Features
 
@@ -18,7 +18,7 @@ A responsive and accessible country search app built with modern web technologie
 
 ## 🛠️ Technical Stack
 
-- **Frontend:** React 19 (Vite) + TypeScript
+- **Frontend:** React 20 (Vite) + TypeScript
 - **Styling:** Emotion (CSS-in-JS) with theme support
 - **Routing:** React Router for dynamic country details
 - **API Integration:** REST Countries API
@@ -34,7 +34,7 @@ The challenge provided an opportunity to practice API integration, theming, and 
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/BhaskarDeb2000/country-app.git
 
 # Install dependencies
 npm install
